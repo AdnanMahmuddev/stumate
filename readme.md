@@ -1,19 +1,19 @@
-Stumate
+🎓 Stumate
 
-Stumate is a smart student companion app designed to help students manage their academic life efficiently. With Stumate, students can track class routines, assignments, presentations, quizzes, and communicate quickly with instructors — all in a sleek, intuitive interface.
+Stumate — Your ultimate student companion! Stay organized, track classes, manage assignments, and never miss a deadline. All your student essentials in one sleek, intuitive app.
 
-Features
+✨ Features
 
-Class Routine Dashboard: View your daily and weekly schedules at a glance.
+🗓 Class Routine Dashboard – Quickly check your daily & weekly schedule.
 
-Next Class Countdown: See the timer for your upcoming class with subject, room, and teacher.
+⏱ Next Class Timer – Countdown to your upcoming class with all details.
 
-Task & Assessment Tracker: Track assignments, presentations, and quizzes with deadlines and progress indicators.
+📝 Assignments & Quizzes Tracker – Keep track of tasks, presentations, and exams.
 
-Smart Message Generator: Quickly generate messages for assignments, quizzes, or syllabus requests.
+💬 Smart Message Generator – Send pre-filled messages to instructors instantly.
 
-Footer Navigation Menu: Modern navigation bar with smooth interactions and optional Quick Add button. 
+🔄 Footer Navigation – Smooth, modern navigation with optional Quick Add button.
 
-Light & Dark Mode: Seamless theme support for comfortable viewing in any environment.
+🌙 Light & Dark Mode – Comfortable viewing anytime.
 
-Motivational & Productivity Focused: Helps students stay organized and on track with their academic goals.
+🚀 Productivity Boost – Designed to help students stay on top of their goals.
